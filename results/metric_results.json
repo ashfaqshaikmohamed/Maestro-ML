@@ -1,0 +1,12 @@
+{
+  "model": "CNNGenreClassifier",
+  "dataset": "GTZAN",
+  "epochs": 15,
+  "train_accuracy": 92.1,
+  "val_accuracy": 86.7,
+  "test_accuracy": 85.9,
+  "f1_score": 0.86,
+  "precision": 0.87,
+  "recall": 0.85,
+  "top_5_recommendation_accuracy": 0.93
+}
