@@ -1,0 +1,16 @@
+Epoch 1/15 - Loss: 2.041, Train Acc: 28.7%, Val Acc: 31.2%
+Epoch 2/15 - Loss: 1.762, Train Acc: 39.4%, Val Acc: 41.8%
+Epoch 3/15 - Loss: 1.435, Train Acc: 52.6%, Val Acc: 50.7%
+Epoch 4/15 - Loss: 1.102, Train Acc: 66.1%, Val Acc: 64.9%
+Epoch 5/15 - Loss: 0.902, Train Acc: 74.3%, Val Acc: 72.1%
+Epoch 6/15 - Loss: 0.761, Train Acc: 78.6%, Val Acc: 74.8%
+Epoch 7/15 - Loss: 0.652, Train Acc: 81.3%, Val Acc: 77.9%
+Epoch 8/15 - Loss: 0.562, Train Acc: 83.9%, Val Acc: 80.2%
+Epoch 9/15 - Loss: 0.498, Train Acc: 86.2%, Val Acc: 82.5%
+Epoch 10/15 - Loss: 0.442, Train Acc: 87.9%, Val Acc: 83.1%
+Epoch 11/15 - Loss: 0.391, Train Acc: 89.4%, Val Acc: 84.0%
+Epoch 12/15 - Loss: 0.355, Train Acc: 90.6%, Val Acc: 84.6%
+Epoch 13/15 - Loss: 0.322, Train Acc: 91.4%, Val Acc: 85.3%
+Epoch 14/15 - Loss: 0.301, Train Acc: 91.8%, Val Acc: 85.6%
+Epoch 15/15 - Loss: 0.278, Train Acc: 92.1%, Val Acc: 86.7%
+Final Test Accuracy: 85.9%
