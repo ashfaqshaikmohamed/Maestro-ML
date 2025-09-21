@@ -1,0 +1,13 @@
+train:
+  epochs: 15
+  batch_size: 16
+  lr: 0.0005
+data:
+  sr: 22050
+  n_mels: 128
+  duration: 30
+model:
+  num_classes: 10
+paths:
+  processed_dir: data/processed
+  results_dir: results
